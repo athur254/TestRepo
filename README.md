@@ -1,4 +1,3 @@
-# TestRepo
 # hello_world.py
 
 def main():
